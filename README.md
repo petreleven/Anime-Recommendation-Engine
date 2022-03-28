@@ -1,2 +1,2 @@
 # Anime-Recommendation-Engine
-Anime recommender system with collaborative filteringand content based recommendation
+Anime recommender system utilizing collaborative filtering and content based recommendation
